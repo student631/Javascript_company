@@ -1,1 +1,2 @@
-# Javascript_company
+# company_directory 
+using javascript
