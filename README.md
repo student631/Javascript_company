@@ -1,2 +1,2 @@
-# company_directory 
+# company_directory_javascript
 using javascript
